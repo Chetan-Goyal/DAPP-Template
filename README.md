@@ -8,7 +8,7 @@
   <h3 align="center">Deploying First DAPP Template</h3>
 
   <p align="center">
-    Making Environment Setup for developing DAPPS Easier !
+    Making Environment Setup for developing DAPPs Easier !
     <br />
     
 
@@ -113,7 +113,7 @@ Make sure you follow each and every step carefully as written here otherwise you
    *(Above command will create a directory named `build` with two files.)*
 2. Now, create a new terminal and navigate to the project directory using `cd`. Here, we are going to run our instance of Ganache. *Replace the `<ENDOPOINT>` with the https endpoint you have received from Infura.io at 2nd Step of Installation.* 
 	```sh
-	cd first-ethereum-dapp/
+	cd DAPP-Template/
 	npx ganache-cli -f <ENDPOINT>
 	```
 3. Run the following command
@@ -168,14 +168,6 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 
 
 <!-- CONTACT -->
