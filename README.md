@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Deployed DAPP][readme_images/localhost.png]](https://github.com/Chetan-Goyal/DAPP-Template)
+![Deployed DAPP](readme_images/localhost.png)
 
 If you want to build your first DAPP or want to use a simple DAPP as template, this is the right place for you.  Deploying first DAPP is always difficult. That's why, I will try to guide you through the easiest way for deploying your first DAPP.
 
