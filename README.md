@@ -5,7 +5,7 @@
     <img src="readme_images/DAPP.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">How-to-deploy-First-DAPP-Template</h3>
+  <h3 align="center">Deploying First DAPP Template</h3>
 
   <p align="center">
     Making Environment Setup for developing DAPPS Easier !
