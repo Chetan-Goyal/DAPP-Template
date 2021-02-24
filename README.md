@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Chetan-Goyal/How-to-deploy-First-DAPP-Template">
+  <a href="https://github.com/Chetan-Goyal/DAPP-Template">
     <img src="readme_images/DAPP.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Deployed DAPP][readme_images/localhost.png]](https://github.com/Chetan-Goyal/DAPP-Template)
 
 If you want to build your first DAPP or want to use a simple DAPP as template, this is the right place for you.  Deploying first DAPP is always difficult. That's why, I will try to guide you through the easiest way for deploying your first DAPP.
 
@@ -88,8 +88,8 @@ Make sure you follow each and every step carefully as written here otherwise you
 2. After creating project, you will see that there will be 2 Endpoints. It will be used later in our project.
 3. Clone the repo
    ```sh
-   git clone https://github.com/Chetan-Goyal/How-to-deploy-First-DAPP-Template.git
-   cd How-to-deploy-First-DAPP-Template/
+   git clone https://github.com/Chetan-Goyal/DAPP-Template.git
+   cd DAPP-Template/
    ```
 4. Install NPM packages
    ```sh
@@ -154,7 +154,7 @@ _If you liked this guide, give it a ⭐ and don't forget to follow for more amaz
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/Chetan-Goyal/How-to-deploy-First-DAPP-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Chetan-Goyal/DAPP-Template/issues) for a list of proposed features (and known issues).
 
 
 
