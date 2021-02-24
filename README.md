@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Chetan-Goyal/How-to-deploy-First-DAPP-Template">
-    <img src="images/DAPP.png" alt="Logo" width="80" height="80">
+    <img src="readme_images/DAPP.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">How-to-deploy-First-DAPP-Template</h3>
