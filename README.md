@@ -175,7 +175,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Chetan Goyal - chetangoyal@ddu.du.ac.in
 
-Project Link: [https://github.com/Chetan-Goyal/How-to-deploy-First-DAPP-Template](https://github.com/Chetan-Goyal/How-to-deploy-First-DAPP-Template)
+Project Link: [https://github.com/Chetan-Goyal/DAPP-Template](https://github.com/Chetan-Goyal/DAPP-Template)
 
 
 
